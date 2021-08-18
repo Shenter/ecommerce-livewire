@@ -1,4 +1,4 @@
-![Image](https://github.com/Shenter/ecommerce/raw/master/image.png)
+![Image](https://github.com/Shenter/ecommerce-livewire/raw/master/image.png)
 
 ## About 
 A simple single-page e-commerce example demo with Livewire & Laravel.
