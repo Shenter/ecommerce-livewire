@@ -1,0 +1,3 @@
+
+    @livewire('hello-world')
+
